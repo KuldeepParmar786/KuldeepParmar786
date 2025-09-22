@@ -41,7 +41,7 @@ Full Stack MERN Developer| Passionate About Web Development & Productivity
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/kuldeep-parmar)  
+- [LinkedIn](https://www.linkedin.com/in/kuldeep-parmar-269257259)  
 
 
 ### 💬 Fun Fact
